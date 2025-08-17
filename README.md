@@ -102,4 +102,3 @@ You can log in as an administrator to test the admin features using the default 
 
 * **Email**: `admin@storerating.com`
 * **Password**: `Admin123!`
-# Coding-Challenge
